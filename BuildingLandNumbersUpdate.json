@@ -1,0 +1,805 @@
+[
+  {
+    "BuildingNumber": "B0010975",
+    "Status": "Active",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "1117 Wharf St.",
+    "Drescription\r": "Rithet - retired L4082 Mar 1 /10 \r"
+  },
+  {
+    "BuildingNumber": "B0010660",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "514 Government St",
+    "Drescription\r": "House_Office\r"
+  },
+  {
+    "BuildingNumber": "B0016824",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "4125 W. 8th Ave.",
+    "Drescription\r": "Mcdonald Hall\r"
+  },
+  {
+    "BuildingNumber": "B0010231",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "617 Government St",
+    "Drescription\r": "Heating Plant\r"
+  },
+  {
+    "BuildingNumber": "B0010652",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "563 Superior St",
+    "Drescription\r": "Queens Printer\r"
+  },
+  {
+    "BuildingNumber": "B0011809",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "SAANICH",
+    "Address": "4216 Wilkinson Rd",
+    "Drescription\r": "Corr Ctr\r"
+  },
+  {
+    "BuildingNumber": "B0016519",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "CLEARWATER",
+    "Address": "363 Murtle Creek & Park",
+    "Drescription\r": "Courthouse\r"
+  },
+  {
+    "BuildingNumber": "B0014639",
+    "Status": "Active",
+    "Tenure": "Leased",
+    "City": "DUNCAN",
+    "Address": "238 Government St",
+    "Drescription\r": "Round Bldg\r"
+  },
+  {
+    "BuildingNumber": "B0012062",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "SAANICH",
+    "Address": "4216 Wilkinson Rd",
+    "Drescription\r": "Horse Barn \r"
+  },
+  {
+    "BuildingNumber": "B0013755",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Res 4\r"
+  },
+  {
+    "BuildingNumber": "B0010009",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "612 Government St.",
+    "Drescription\r": "(612/614) Bunker\r"
+  },
+  {
+    "BuildingNumber": "B0014621",
+    "Status": "Active",
+    "Tenure": "Leased",
+    "City": "DUNCAN",
+    "Address": "238 Government St",
+    "Drescription\r": "Crthouse\r"
+  },
+  {
+    "BuildingNumber": "B0010017",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "500 Belleville St.",
+    "Drescription\r": "Canadian Institute For The Blind Kiosk\r"
+  },
+  {
+    "BuildingNumber": "B0018135",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "SQUAMISH",
+    "Address": "Centennial Parkway",
+    "Drescription\r": "Fuel Shed\r"
+  },
+  {
+    "BuildingNumber": "B0010637",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "541 Superior St.",
+    "Drescription\r": "Temporary 3\r"
+  },
+  {
+    "BuildingNumber": "B0016766",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "800 W Georgia St",
+    "Drescription\r": "Art Gallery\r"
+  },
+  {
+    "BuildingNumber": "B0010645",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "553 Superior St.",
+    "Drescription\r": "Temporary 1\r"
+  },
+  {
+    "BuildingNumber": "B0013714",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Corr Ctr Main\r"
+  },
+  {
+    "BuildingNumber": "B0017046",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "525 W. 59th Ave.",
+    "Drescription\r": "Tradeshop\r"
+  },
+  {
+    "BuildingNumber": "B0016808",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "4180 W. 4th Ave.",
+    "Drescription\r": "Recreation Hall - Gym\r"
+  },
+  {
+    "BuildingNumber": "B0010033",
+    "Status": "Active",
+    "Tenure": "Managed",
+    "City": "VICTORIA",
+    "Address": "431 Menzies St",
+    "Drescription\r": "Armories\r"
+  },
+  {
+    "BuildingNumber": "B0010512",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "526 Michigan St.",
+    "Drescription\r": "House/Office\r"
+  },
+  {
+    "BuildingNumber": "B0010611",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "545 Superior St.",
+    "Drescription\r": "Phase II capital park project \r"
+  },
+  {
+    "BuildingNumber": "B0010595",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "515 Superior St.",
+    "Drescription\r": "Service Ctr\r"
+  },
+  {
+    "BuildingNumber": "B0013763",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Res 1\r"
+  },
+  {
+    "BuildingNumber": "B0015669",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "POWELL RIVER",
+    "Address": "6953 Alberni St",
+    "Drescription\r": "Crthouse\r"
+  },
+  {
+    "BuildingNumber": "B0011221",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "1515 Blanshard St",
+    "Drescription\r": "Richard\r"
+  },
+  {
+    "BuildingNumber": "B0010090",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "655 Belleville St.",
+    "Drescription\r": "Archives\r"
+  },
+  {
+    "BuildingNumber": "B0010587",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "525 Superior St.",
+    "Drescription\r": "Temporary 2\r"
+  },
+  {
+    "BuildingNumber": "B0013813",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Park House \r"
+  },
+  {
+    "BuildingNumber": "B0016584",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "WEST VANCOUVER",
+    "Address": "430 Marine Dr.",
+    "Drescription\r": "Garage/Paint Storage\r"
+  },
+  {
+    "BuildingNumber": "B0013748",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Guthrie House\r"
+  },
+  {
+    "BuildingNumber": "B0010223",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "617 Government St",
+    "Drescription\r": "Douglas Bldg\r"
+  },
+  {
+    "BuildingNumber": "B0010686",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "584 Michigan St.",
+    "Drescription\r": "Quonset Hut\r"
+  },
+  {
+    "BuildingNumber": "B0010900",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "850 Burdett St",
+    "Drescription\r": "Crthouse\r"
+  },
+  {
+    "BuildingNumber": "B0010058",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "VICTORIA",
+    "Address": "401 Menzies St.",
+    "Drescription\r": "Garage - see note \r"
+  },
+  {
+    "BuildingNumber": "B0013771",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Res 2\r"
+  },
+  {
+    "BuildingNumber": "B0010678",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "506 Government St",
+    "Drescription\r": "House_Office\r"
+  },
+  {
+    "BuildingNumber": "B0010520",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "544 / 548 Michigan St.",
+    "Drescription\r": "\r"
+  },
+  {
+    "BuildingNumber": "B0010496",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "524 Michigan St.",
+    "Drescription\r": "House/Office\r"
+  },
+  {
+    "BuildingNumber": "B0018168",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "SQUAMISH",
+    "Address": "Centennial Parkway",
+    "Drescription\r": "Storage\r"
+  },
+  {
+    "BuildingNumber": "B0017871",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "222 Main St",
+    "Drescription\r": "Court Xref B91916\r"
+  },
+  {
+    "BuildingNumber": "B0014902",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "35 Front St",
+    "Drescription\r": "Crthouse_Office\r"
+  },
+  {
+    "BuildingNumber": "B0016618",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "WEST VANCOUVER",
+    "Address": "430 Marine Dr.",
+    "Drescription\r": "Oil Storage Shed\r"
+  },
+  {
+    "BuildingNumber": "B0017079",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "VANCOUVER",
+    "Address": "500 W. 57th Ave.",
+    "Drescription\r": "Dogwood Lodge Society\r"
+  },
+  {
+    "BuildingNumber": "B0016600",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "WEST VANCOUVER",
+    "Address": "430 Marine Dr.",
+    "Drescription\r": "Patrol Office/Stores\r"
+  },
+  {
+    "BuildingNumber": "B0017038",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "525 W. 59th Ave.",
+    "Drescription\r": "Pearson Garage\r"
+  },
+  {
+    "BuildingNumber": "B0010561",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "521 Superior St.",
+    "Drescription\r": "House/Office\r"
+  },
+  {
+    "BuildingNumber": "B0016832",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "4180 W. 4th Ave.",
+    "Drescription\r": "Cafeteria\r"
+  },
+  {
+    "BuildingNumber": "B0018176",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "SQUAMISH",
+    "Address": "Centennial Parkway",
+    "Drescription\r": "Storage\r"
+  },
+  {
+    "BuildingNumber": "B0013789",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Res 3\r"
+  },
+  {
+    "BuildingNumber": "B0011569",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "VICTORIA",
+    "Address": "1019 Wharf St.",
+    "Drescription\r": "Dogwood\r"
+  },
+  {
+    "BuildingNumber": "B0013805",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Campbell House \r"
+  },
+  {
+    "BuildingNumber": "B0016782",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "5 W. 15th Ave.",
+    "Drescription\r": "Group Home\r"
+  },
+  {
+    "BuildingNumber": "B0014381",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "COURTENAY",
+    "Address": "420 Cumberland Rd",
+    "Drescription\r": "Crthouse\r"
+  },
+  {
+    "BuildingNumber": "B0016816",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VANCOUVER",
+    "Address": "4125 W. 8th Ave.",
+    "Drescription\r": "Dormitory - Tyler\r"
+  },
+  {
+    "BuildingNumber": "B0018143",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "SQUAMISH",
+    "Address": "Centennial Parkway",
+    "Drescription\r": "Office\r"
+  },
+  {
+    "BuildingNumber": "B0010603",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "505 Superior St.",
+    "Drescription\r": "Storage/Vault\r"
+  },
+  {
+    "BuildingNumber": "B0019653",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3705 Willingdon Ave.",
+    "Drescription\r": "Office\r"
+  },
+  {
+    "BuildingNumber": "B0013797",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Heating Plant\r"
+  },
+  {
+    "BuildingNumber": "B0019661",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Food Ctr\r"
+  },
+  {
+    "BuildingNumber": "B0019596",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Central Heating Plant\r"
+  },
+  {
+    "BuildingNumber": "B0019687",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "School\r"
+  },
+  {
+    "BuildingNumber": "B0018184",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "SQUAMISH",
+    "Address": "Centennial Parkway",
+    "Drescription\r": "Storage\r"
+  },
+  {
+    "BuildingNumber": "B0019612",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "BURNABY",
+    "Address": "3655 Willingdon Ave.",
+    "Drescription\r": "Old BYCC\r"
+  },
+  {
+    "BuildingNumber": "B0019679",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Activity Bldg\r"
+  },
+  {
+    "BuildingNumber": "B0019703",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Cottage 1\r"
+  },
+  {
+    "BuildingNumber": "B0013730",
+    "Status": "Active",
+    "Tenure": "Owned",
+    "City": "NANAIMO",
+    "Address": "3945 Biggs Rd",
+    "Drescription\r": "Campbell Gym \r"
+  },
+  {
+    "BuildingNumber": "B0019604",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Building 28\r"
+  },
+  {
+    "BuildingNumber": "B0019711",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Cottage 3 - Byocc\r"
+  },
+  {
+    "BuildingNumber": "B0018192",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "VICTORIA",
+    "Address": "1900 Fort St.",
+    "Drescription\r": "Trailer - Ehs Atco 12x60\r"
+  },
+  {
+    "BuildingNumber": "B0010629",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "VICTORIA",
+    "Address": "539 Superior St.",
+    "Drescription\r": "Activity Ctr - House\r"
+  },
+  {
+    "BuildingNumber": "B0018275",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "WHISTLER",
+    "Address": "Hwy. 99",
+    "Drescription\r": "Equipment Storage Shed\r"
+  },
+  {
+    "BuildingNumber": "B0019919",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "BURNABY",
+    "Address": "3655 Willingdon Ave.",
+    "Drescription\r": "Classroom Trailer - Byscc\r"
+  },
+  {
+    "BuildingNumber": "B0019695",
+    "Status": "Retired",
+    "Tenure": "Leased",
+    "City": "BURNABY",
+    "Address": "3405 Willingdon Ave.",
+    "Drescription\r": "Cottage 2\r"
+  },
+  {
+    "BuildingNumber": "B0021618",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Crease Unit\r"
+  },
+  {
+    "BuildingNumber": "B0019927",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "CHILLIWACK",
+    "Address": "53033 Chilliwack Lake Rd.",
+    "Drescription\r": "Assembly Trailer\r"
+  },
+  {
+    "BuildingNumber": "B0021683",
+    "Status": "Active",
+    "Tenure": "Leased",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy",
+    "Drescription\r": "N Lawn\r"
+  },
+  {
+    "BuildingNumber": "B0021378",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "COQUITLAM",
+    "Address": "70 Colony Farm Rd.",
+    "Drescription\r": "Pump House\r"
+  },
+  {
+    "BuildingNumber": "B0021667",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Firehall\r"
+  },
+  {
+    "BuildingNumber": "B0021592",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Riverview Boilerhouse\r"
+  },
+  {
+    "BuildingNumber": "B0021790",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Mini Care Unit 103\r"
+  },
+  {
+    "BuildingNumber": "B0021865",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Telephone Exchange\r"
+  },
+  {
+    "BuildingNumber": "B0021741",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Riverview Hospital Admin\r"
+  },
+  {
+    "BuildingNumber": "B0021816",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Mini Care Unit 105\r"
+  },
+  {
+    "BuildingNumber": "B0021659",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "East Lawn\r"
+  },
+  {
+    "BuildingNumber": "B0021907",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Cottage 109\r"
+  },
+  {
+    "BuildingNumber": "B0021766",
+    "Status": "Active",
+    "Tenure": "Leased",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy",
+    "Drescription\r": "Fernwood Ldg\r"
+  },
+  {
+    "BuildingNumber": "B0021808",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Mini Care Unit 104\r"
+  },
+  {
+    "BuildingNumber": "B0021873",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Cottage 108\r"
+  },
+  {
+    "BuildingNumber": "B0021758",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Henry Esson Young\r"
+  },
+  {
+    "BuildingNumber": "B0021956",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Transport Garage\r"
+  },
+  {
+    "BuildingNumber": "B0019737",
+    "Status": "Retired",
+    "Tenure": "Owned",
+    "City": "BURNABY",
+    "Address": "3655 Willingdon Ave.",
+    "Drescription\r": "Loading Dock - Byscc\r"
+  },
+  {
+    "BuildingNumber": "B0021899",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Cottage 107\r"
+  },
+  {
+    "BuildingNumber": "B0021881",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Cottage 106\r"
+  },
+  {
+    "BuildingNumber": "B0021733",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "West Lawn\r"
+  },
+  {
+    "BuildingNumber": "B0021972",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Cottage 116\r"
+  },
+  {
+    "BuildingNumber": "B0021915",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Cottage 110\r"
+  },
+  {
+    "BuildingNumber": "B0021675",
+    "Status": "Active",
+    "Tenure": "Leased",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy",
+    "Drescription\r": "Central\r"
+  },
+  {
+    "BuildingNumber": "B0021626",
+    "Status": "Retired",
+    "Tenure": "Managed",
+    "City": "COQUITLAM",
+    "Address": "2601 Lougheed Hwy.",
+    "Drescription\r": "Crease Kitchen/Dining Block\r"
+  },
+  {
+    "BuildingNumber": ""
+  }
+]
